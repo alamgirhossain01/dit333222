@@ -1,0 +1,26 @@
+/* universal selector */
+
+ * {
+    text-align: center;
+}
+/* id selector */
+#Admin-box{
+    background-color: blue;
+    width: 500px;
+}
+/* decndant selector */
+form input{
+    width: 90%;
+}
+/* attribute selector */
+input[type="submit"]{
+    width: 50%;
+    color: red;
+}
+/* psudo class selector */
+input[type="submit"]:hover{
+    background-color: yellow;
+    cursor: pointer;
+    color:red;
+
+}

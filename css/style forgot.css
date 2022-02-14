@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    
+ 
+}
+.account-box{
+    
+    background-color: blue;
+    width: 500px;
+}
+h1 {
+    background-color:red;
+}
+form input{
+    width: 90%;
+}
+button:hover{
+   
+    background-color: yellow;
+    cursor: pointer;
+    color:red;
